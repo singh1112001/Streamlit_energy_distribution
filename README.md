@@ -7,7 +7,7 @@
 4. Use the commond  _streamlit run “Path of the python file”_
 5. This will host the website on localhost in your computer
 
-   ###For Global Host, we have to link python file with streamlink community
+###For Global Host, we have to link python file with streamlink community
    
 1. Upload the python code on github with the libraries requirement text file. ( dont provide anyspecification)
 2. Open streamlit cloud on google and connect your github account and create new app on that website using the github code
